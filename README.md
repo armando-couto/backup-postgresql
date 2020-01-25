@@ -1,2 +1,6 @@
-# backup-postgresql
-Exemplo de backup via chamada do pg_dump.
+### Update Dependencia
+
+    go get -u github.com/armando-couto/barkup
+    
+### Build
+    go build
